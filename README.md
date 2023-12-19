@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, feel free to reach out to us at omkardp13@gmail.com.
+For questions or support, feel free to reach out to us at rohitraut002137@gmail.com
